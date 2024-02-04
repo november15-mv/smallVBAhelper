@@ -1,2 +1,2 @@
 # smallVBAhelper
-small VBA macros for Word
+Small VBA macros for Word
