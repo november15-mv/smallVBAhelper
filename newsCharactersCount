@@ -1,0 +1,7 @@
+Sub newsCharactersCount()
+' Проверка длины заголовка в новости
+Dim n As Integer
+   n = Selection.Characters.Count - 1
+   MsgBox prompt:="В заголовке " & n & " символов", _
+   Title:="Количество символов"
+End Sub
